@@ -7,7 +7,7 @@ npm run dev
 ```
 
 ```bash
-http://localhost:3000
+http://localhost:3000/
 ```
 
 ```bash
